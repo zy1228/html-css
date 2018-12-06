@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [第一次课](di-yi-ci-ke.md)
-* [课堂笔记](ke-tang-bi-ji.md)
+* [课堂笔记（day2）](ke-tang-bi-ji.md)
+* [Lesson one](lesson-one.md)
 
