@@ -75,7 +75,7 @@ HTML
     <p id="Google">...</p>
     
 # USing Css Resets
->每个Web浏览器都有自己的默认样式用于不同的元素。为确保跨浏览器兼容性，我们会使用CSS重置。
+>由于不同的浏览器样式有一定的区别，通过一个全局的样式定义，让后续的代码编写在一个统一的环境变量运行
 
     /* http://meyerweb.com/eric/tools/css/reset/ 2. v2.0 | 20110126
     License: none (public domain)
