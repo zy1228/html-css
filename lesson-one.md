@@ -31,6 +31,38 @@ Attributes(属性)
     </html>
 
 # Understanding Common CSS Terms
+>selectors 选择器
+
+    p { 样式属性：属性值 }
+    例：
+    p {
+        color: blue;
+        font-size: 6px;
+      }
+      
+>class selectors
+
+CSS
+
+    .classname{
+      样式属性：属性值
+      }
+     例：
+    .baidu {
+      color: blue;
+      font-size: 6px;
+      }
+HTML
+
+    <p class="baidu">...</p>
+
+>ID selectors
+
+    #ID
+
+
+
+
 
 
 
