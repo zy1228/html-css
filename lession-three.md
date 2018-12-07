@@ -9,4 +9,10 @@
 例：
 名称	十六进制值	RGB值	           HSL值
 black	 #000000     rgb(0, 0, 0)	  hsl(0, 0%, 0%)
-silver	 #c0c0c0     rgb(192, 192, 192)  hsl(0, 0%, 75%
+silver	 #c0c0c0     rgb(192, 192, 192)  hsl(0, 0%, 75%)
+
+>Lengths
+
+Absolute Lengths(绝对长度) ->Pixels（像素）：1px 写死的
+Relative Lengths（相对长度） ->Percentages(百分比):50% 随着窗口大小而变化的
+EM ->5em 随字体的大小而变化
