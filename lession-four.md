@@ -79,6 +79,37 @@ margin（外边距）
 ### Borders
 >border属性需要三个值：width，style，和color。
 
+    div {
+          border: 6px solid #949599;
+        }
+
+常见的style有：solid，double，dashed，dotted，和none
+
+>表现形式：
+
+    div {
+          border-bottom: 6px solid #949599;
+        }
+        
+更准确一些
+
+    div {
+          border-bottom-width: 12px;
+        }
+ 
+##  Content Box
+>设置一个默认的内容框
+
+    div {
+             -webkit-box-sizing: border-box;
+             -moz-box-sizing: border-box;
+              box-sizing: border-box;
+         }
+
+
+
+
+    
 
 
 
