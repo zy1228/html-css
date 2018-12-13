@@ -8,4 +8,5 @@
 * [课堂笔记（Day3）](ke-tang-bi-ji-ff08-day3.md)
 * [Lesson four](lession-four.md)
 * [Lesson five](lesson-five.md)
+* [阅读笔记-lesson 12](yue-du-bi-8bb0-lesson-12.md)
 
