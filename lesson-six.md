@@ -123,14 +123,29 @@ line-height最好设置为font-size属性值的1.5倍左右。（line-height to 
       text-transform: uppercase;
     }
         
-
+## Letter Spacing（字母）
     
-        
+    p {
+      letter-spacing: -.5em;
+    }
+    
+## Word Spacing
+    
+    p {
+      word-spacing: .25em;
+    }        
             
-                
-                    
-                        
-                            
+# Using Web-Safe Fonts                
+>建议使用以下字体   
+
+Arial, Courier New, Courier, Garamond, Georgia Lucida Sans, Lucida Grande, Lucida, Palatino Linotype, Tahoma, Times New Roman, Times, Trebuchet, Verda
+
+#Including Citations & Quotes(引用) 
+
+    <cite>：用于引用广告素材作品，作者或资源
+    <q>：用于简短的内联引用
+    <blockquote>：块引用                
+                                
                                 
                                     
                                         
