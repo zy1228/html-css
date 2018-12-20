@@ -9,4 +9,7 @@
 * [Lesson four](lession-four.md)
 * [Lesson five](lesson-five.md)
 * [阅读笔记-lesson 12](yue-du-bi-8bb0-lesson-12.md)
+* [Lesson six](lesson-six.md)
+* Lesson seven
+* Javascrip 笔记
 
