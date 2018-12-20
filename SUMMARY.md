@@ -11,5 +11,5 @@
 * [阅读笔记-lesson 12](yue-du-bi-8bb0-lesson-12.md)
 * [Lesson six](lesson-six.md)
 * [Lesson seven](lesson-seven.md)
-* Javascrip 笔记
+* [Javascrip 笔记](javascrip-bi-ji.md)
 
