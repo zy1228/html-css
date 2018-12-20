@@ -83,12 +83,46 @@ line-height最好设置为font-size属性值的1.5倍左右。（line-height to 
 顺序：font-style，font-variant，font-weight，font-size，line-height，和font-family。
 
     html {
-      font: italic small-caps bold 14px/22px "Helvetica Neue", Helvetica,                        Arial, sans-serif;
+      font: italic small-caps bold 14px/22px "Helvetica Neue", Helvetica, Arial, sans-serif;
     }
 
+#Applying Text Properties(文本属性）
+>文本属性可以决定如何对齐，修饰，缩进，转换和空格文本。
 
+## Text Align（对齐）
+>关键字的值：left，right，center，justify，和inherit。
+    
+    p {
+      text-align: center;
+    }
 
+## Text Decoration
+>关键字的值：none，underline，overline，line-through，和inherit。
 
+    .note {
+      text-decoration: underline;
+    }
+
+## Text Indent（缩进）
+
+    p {
+      text-indent: 20px;
+    }
+
+## Text Shadow
+>前三个值是长度，最后一个值是颜色。
+
+    p {
+      text-shadow: 3px 6px 2px rgba(0, 0, 0, .3);
+    }
+    
+##Text Transform
+>关键字的值为：none，capitalize（第一个字母大写），uppercase（大写），lowercase（小写），和inherit
+
+    p {
+      text-transform: uppercase;
+    }
+        
 
     
         
