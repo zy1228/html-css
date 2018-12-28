@@ -12,4 +12,7 @@
 * [Lesson six](lesson-six.md)
 * [Lesson seven](lesson-seven.md)
 * [Javascrip 笔记](javascrip-bi-ji.md)
+* [课堂笔记 （day5）](ke-tang-bi-ji-day5.md)
+* [Lesson eight](lesson-eight.md)
+* Lesson nine
 
