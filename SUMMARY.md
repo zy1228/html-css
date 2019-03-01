@@ -14,7 +14,7 @@
 * [课堂笔记 （day5）](ke-tang-bi-ji-day5.md)
 * [Lesson eight](lesson-eight.md)
 * [Lesson nine](lesson-nine.md)
-* Lesson ten
+* [Lesson ten](lesson-ten.md)
 * [Lesson eleven](lesson-eleven.md)
 * [lesson 12](yue-du-bi-8bb0-lesson-12.md)
 
