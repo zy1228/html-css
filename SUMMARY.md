@@ -6,8 +6,8 @@
 * [Lesson two](lession-two.md)
 * [Lesson three](lession-three.md)
 * [课堂笔记（Day3）](ke-tang-bi-ji-ff08-day3.md)
-* [Lesson four](lession-four.md)
 * [Lesson five](lesson-five.md)
+* [Lesson four](lession-four.md)
 * [Lesson six](lesson-six.md)
 * [Lesson seven](lesson-seven.md)
 * [Javascrip 笔记](javascrip-bi-ji.md)
@@ -17,4 +17,5 @@
 * [Lesson ten](lesson-ten.md)
 * [Lesson eleven](lesson-eleven.md)
 * [lesson 12](yue-du-bi-8bb0-lesson-12.md)
+* [课堂笔记（6）](ke-tang-bi-ji-ff08-6.md)
 
