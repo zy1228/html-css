@@ -33,9 +33,26 @@
 起名字是编程中遇到的最频繁的事情，不要用拼音代替
 名字不宜太长，尽量使用缩写
 
-## 如何写一个漂亮的java程序
+## 如何写一个严谨的java程序
 
+ 写注释
+ 在类、方法、属性中
+ 
+    public class Study {
+	/**
+	 * 我是一个没有感情的文档注释
+	 * main方法是程序的主入口
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		/**
+		 * 输出内容到控制台
+		 */
+		System.out.print("我爱学习");	
+		}
+	}
 
+    
 
 
 
