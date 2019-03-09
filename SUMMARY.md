@@ -18,4 +18,5 @@
 * [Lesson eleven](lesson-eleven.md)
 * [lesson 12](yue-du-bi-8bb0-lesson-12.md)
 * [课堂笔记（6）](ke-tang-bi-ji-ff08-6.md)
+* [课堂笔记（7）](ke-tang-bi-ji-ff08-7.md)
 
