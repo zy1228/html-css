@@ -68,3 +68,31 @@ a：是一种伪类选择器 （a可以不为标签，可以为类或id）
     a:visited {background-color:#FFFF85;}
     a:hover {background-color:#FF704D;}
     a:active {background-color:#FF704D;}
+    
+## 盒子模型
+
+转lesson four
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
