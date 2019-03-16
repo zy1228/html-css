@@ -73,6 +73,19 @@ a：是一种伪类选择器 （a可以不为标签，可以为类或id）
 
 转lesson four
 
+### 盒子模型的种类
+1. 内容盒子
+2. 边框盒子
+    
+    一个好玩的三角形
+    div {
+	border: 50px solid #949599;
+	height: 0px;
+	width: 0px;
+	border-left-color: transparent; //透明颜色
+	border-right-color: transparent;
+	border-top-color: transparent;
+	}
 
 
 
