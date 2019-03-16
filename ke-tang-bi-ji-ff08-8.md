@@ -75,8 +75,13 @@ a：是一种伪类选择器 （a可以不为标签，可以为类或id）
 
 ### 盒子模型的种类
 1. 内容盒子
+
+ content-box 
+   
 2. 边框盒子
-    
+
+ border-box
+            
     一个好玩的三角形
     div {
 	border: 50px solid #949599;
@@ -86,6 +91,18 @@ a：是一种伪类选择器 （a可以不为标签，可以为类或id）
 	border-right-color: transparent;
 	border-top-color: transparent;
 	}
+详情见代码 3.html
+
+## 颜色
+
+1. 关键字颜色
+
+    red、black...
+    
+2. 十六进制颜色与rgb颜色
+
+![](/assets/QQ截图20190316144432.png)
+
 
 
 
