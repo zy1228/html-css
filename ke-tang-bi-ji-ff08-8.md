@@ -103,11 +103,32 @@ a：是一种伪类选择器 （a可以不为标签，可以为类或id）
 
 ![](/assets/QQ截图20190316144432.png)
 
+![](/assets/QQ截图20190316145053.png)
 
+## 列表
 
+转lesson eight
 
+补充
+rowspan：合并两行，从合并的第一行进行合并
+align：在单元格内文字水平居左(left)，居中，居右(right)
+valign：在单元格内垂直角度的顶部，底部，居中						
+nth-child（xn（第几行就第几n））：表格中的颜色变化
+hover：鼠标悬浮处的颜色变化
 
+## 浮动
 
+>如何设置浮动
+
+    .float-right{
+  	             float: right;
+                  }
+    
+>如何清除浮动
+
+    .clear-float {
+  	            clear: both;
+                  }
 
 
 

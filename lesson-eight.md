@@ -109,7 +109,7 @@
 
 <li>circle  一个空心圆圈</li>
 
-<li>square  一个满满的广场</li>
+<li>square  一个方块</li>
 
 <li>decimal  十进制数</li>
 
